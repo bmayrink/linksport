@@ -35,7 +35,3 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Breno Design
-# links
-# linksport
-# linksport
-# linksport
